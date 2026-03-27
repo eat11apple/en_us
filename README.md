@@ -1,4 +1,4 @@
-This is my github page project pomepage
+This is my github page
 [Click me to jump](https://eat11apple.github.io/en_us)
 
 Other Language:
